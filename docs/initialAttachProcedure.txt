@@ -1,18 +1,21 @@
-[OK] RRC Connection Setup Procedure handling between UE and eNB
-[OK] Storage of UE Context Information in the eNB
-[  ] Initial UE message on S1AP
-[OK] Authentication Information Retrieval Procedure between MME and HSS
-[  ] Storage of UE Context Information in MME
-[  ] Downlink NAS Transport on S1AP
-[  ] Downlink Information transfer on RRC
-[  ] Uplink Information transfer on RRC
-[  ] Uplink NAS Transport on S1AP
-[  ] NAS Authentication Procedure between MME and UE
-[  ] NAS Security Mode Command Procedure between MME and UE
-[  ] Location Update Procedure between MME and HSS
-[OK] Create Session Request/Response between MME and SGW-PGW
-[OK] RRC Security Mode Command Procedure between eNB and UE
-[  ] Obtain UEs radio capabilities
-[  ] RRC Connection Reconfiguration Procedure
-[  ] Initial UE Context Setup on S1AP
-[  ] Modify Bearer Request/Response between MME and SGW-PGW
+1.	[OK] RRC Connection Setup Procedure handling between UE and eNB
+2.	[OK] Storage and retrieval of UE Context Information in the eNB
+3.	[  ] Subset of the UE EMM State Machine in the UE  (24.301, Figure 5.1.3.2.2.7.1)-Kaan
+4.	[  ] Subset of the UE EMM State Machine in the MME (24.301, Figure 5.1.3.4.4.1)- Serkan
+5.	[OK] Initial UE message on S1AP
+6.	[OK] Authentication Information Retrieval Procedure between MME and HSS
+7.	[  ] Storage and retrieval of UE Context Information in MME - Caner
+8.	[OK] Downlink NAS Transport on S1AP
+9.	[OK] Downlink Information transfer on RRC
+10.	[OK] Uplink Information transfer on RRC
+11.	[OK] Uplink NAS Transport on S1AP
+12.	[  ] NAS Authentication Procedure between MME and UE -Berkin
+13.	[  ] NAS Security Mode Command Procedure between MME and UE - AbdulMecit
+14.	[  ] Location Update Procedure between MME and HSS - Kenan
+15.	[OK] Create Session Request/Response between MME and SGW-PGW
+16.	[  ] Storage and retrieval of UE Context Information in SGW-PGW - Cenk
+17.	[OK] RRC Security Mode Command Procedure between eNB and UE
+18.	[  ] Obtain UEs radio capabilities - Mert
+19.	[  ] RRC Connection Reconfiguration Procedure Ð Anil
+20.	[  ] Initial UE Context Setup on S1AP Ð Ismail
+21.	[  ] Modify Bearer Request/Response between MME and SGW-PGW - Jafer
